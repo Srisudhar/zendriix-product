@@ -2,7 +2,7 @@
 # Script to initialize and push Zendriix Git Workflow repo
 
 REPO_NAME="zendriix-product"
-GITHUB_URL="https://github.com/Srisudhar/zendriix-product.git"  # Change to your repo URL
+GITHUB_URL="https://github.com/Srisudhar/zendriix-product.git"
 
 #cd $REPO_NAME || exit 1
 
